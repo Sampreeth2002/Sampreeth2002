@@ -36,24 +36,24 @@
 <tr>
 <td width="57%" valign="top">
 
-I'm a software engineer on *Microsoft Azure Compute*, working where
-*distributed systems, networking and data infrastructure* meet.
+I'm a software engineer on **Microsoft Azure Compute**, working where
+**distributed systems, networking and data infrastructure** meet.
 
 My work is the unglamorous kind that everything else depends on — the
 ingestion path, the cross-region network, the storage layer, the
-deployment that has to land in *74 regions* without a blip.
+deployment that has to land in **74 regions** without a blip.
 
-- 🔭 &nbsp;Building large-scale telemetry & data platforms on *Azure*
-- 🌐 &nbsp;~3 years in *4G/5G core networking* — control plane & data plane in *C++*
+- 🔭 &nbsp;Building large-scale telemetry & data platforms on **Azure**
+- 🌐 &nbsp;~3 years in **4G/5G core networking** — control plane & data plane in **C++**
 - 📊 &nbsp;I care about measurable outcomes over activity
 - 🧪 &nbsp;If a change can't be benchmarked, I'm suspicious of it
-- 🧩 &nbsp;*400+ DSA problems* across [LeetCode](https://leetcode.com/u/Sampreeth_02/) & [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sampreeth2002)
-- 📍 &nbsp;Based in *Hyderabad, India* — happy to talk distributed systems, cloud infra & networking
+- 🧩 &nbsp;**400+ DSA problems** across [LeetCode](https://leetcode.com/u/Sampreeth_02/) & [GeeksforGeeks](https://www.geeksforgeeks.org/profile/sampreeth2002)
+- 📍 &nbsp;Based in **Hyderabad, India** — happy to talk distributed systems, cloud infra & networking
 
 </td>
 <td width="43%" valign="top">
 
-csharp
+```csharp
 public class Sampreeth
 {
     string Role  = "Software Engineer II";
@@ -73,7 +73,7 @@ public class Sampreeth
 
     string Motto() => "Always eager to learn.";
 }
-
+```
 
 </td>
 </tr>
@@ -91,14 +91,14 @@ public class Sampreeth
 
 ### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> &nbsp;Software Engineer II
 
-*Azure Compute* · Hyderabad
-Mar 2026 – Present
+**Azure Compute** · Hyderabad
+`Mar 2026 – Present`
 
 Distributed telemetry & data platform work across Azure.
 
-- Ingestion spanning *74 Azure regions, end-to-end latency cut **93%* (30 min → 2 min)
-- Cross-region network path — *NAT gateways, load balancers, firewall policies*
-- Owned a *multi-region deployment* end to end at *99.99% availability*
+- Ingestion spanning **74 Azure regions**, end-to-end latency cut **93%** *(30 min → 2 min)*
+- Cross-region network path — **NAT gateways, load balancers, firewall policies**
+- Owned a **multi-region deployment** end to end at **99.99% availability**
 - Automated benchmarking to find and remove performance bottlenecks
 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -112,15 +112,15 @@ Distributed telemetry & data platform work across Azure.
 
 ### <img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> &nbsp;Software Engineer I
 
-*Mobility Content Cloud* · Bangalore
-Jun 2023 – Feb 2026
+**Mobility Content Cloud** · Bangalore
+`Jun 2023 – Feb 2026`
 
-4G/5G core networking — a mobile gateway serving *100M+ users*.
+4G/5G core networking — a mobile gateway serving **100M+ users**.
 
-- *Control-plane and data-plane* subsystems in *C++* and Python
-- Optimized 5G data-plane packet processing — *throughput +30%*
-- *QoS* & traffic prioritisation — traffic management efficiency *+25%*
-- Ingestion framework cut source onboarding *97%* (3 days → 2 hrs)
+- **Control-plane and data-plane** subsystems in **C++** and Python
+- Optimized 5G data-plane packet processing — **throughput +30%**
+- **QoS** & traffic prioritisation — traffic management efficiency **+25%**
+- Ingestion framework cut source onboarding **97%** *(3 days → 2 hrs)*
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -165,7 +165,7 @@ Jun 2023 – Feb 2026
 
 <sub>
 
-*Also:* Azure Data Explorer (Kusto) · Data Factory · Databricks · Event Hubs · Azure Functions ·
+**Also:** Azure Data Explorer (Kusto) · Data Factory · Databricks · Event Hubs · Azure Functions ·
 NAT / Load Balancers / Firewalls · QoS & Traffic Prioritisation · GTP-C/GTP-U · PFCP · Diameter
 
 </sub>
@@ -267,7 +267,7 @@ NAT / Load Balancers / Firewalls · QoS & Traffic Prioritisation · GTP-C/GTP-U 
 
 MERN video-conferencing platform tuned for **100+ concurrent users
 per room** with zero UI blocking, plus a Firebase chat layer
-delivering *&lt;50 ms* message sync.
+delivering **&lt;50 ms** message sync.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -280,9 +280,9 @@ delivering *&lt;50 ms* message sync.
 
 ### 🩺 &nbsp;[MedLink](https://github.com/Sampreeth2002/MedLink)
 
-Blockchain platform for centralising medical records — *IPFS* for
+Blockchain platform for centralising medical records — **IPFS** for
 off-chain file storage to cut on-chain cost, decentralised auth
-via *MetaMask*.
+via **MetaMask**.
 
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -298,7 +298,7 @@ via *MetaMask*.
 
 ### 🗣️ &nbsp;[Baat](https://github.com/Sampreeth2002/Baat)
 
-Accessible e-learning platform for *visually impaired students* —
+Accessible e-learning platform for **visually impaired students** —
 voice-command navigation for hands-free use and facial recognition
 for frictionless sign-in.
 
@@ -319,7 +319,7 @@ patterns, revision queue and streaks in one place.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-*[🔗 Live Demo](https://dsa-tracker-gamma-eight.vercel.app)*
+**[🔗 Live Demo](https://dsa-tracker-gamma-eight.vercel.app)**
 
 </td>
 
@@ -373,9 +373,9 @@ powered by a convolutional neural network.
 
 ### 🎓 &nbsp;Education
 
-*Vellore Institute of Technology*
+**Vellore Institute of Technology**
 B.Tech, Computer Science &amp; Engineering
-2019 – 2023 · Vellore, India
+`2019 – 2023` · Vellore, India
 
 <img src="https://img.shields.io/badge/CGPA-9.13%2F10-6366F1?style=for-the-badge"/>
 
@@ -384,10 +384,10 @@ B.Tech, Computer Science &amp; Engineering
 
 ### 🏆 &nbsp;Achievements
 
-- 🥇 &nbsp;*Global Rank 176* — CodeChef January Lunchtime 2022 (Div 3)
-- 🥈 &nbsp;*2nd place* — Devspace Hackathon, among *700+ teams* (CSI)
-- 🎨 &nbsp;*Best Design Project* — Hackulus Hackathon, *1000+ participants* (SIAM-VIT)
-- 🧩 &nbsp;*400+* DSA problems solved across LeetCode &amp; GeeksforGeeks
+- 🥇 &nbsp;**Global Rank 176** — CodeChef January Lunchtime 2022 *(Div 3)*
+- 🥈 &nbsp;**2nd place** — Devspace Hackathon, among **700+ teams** *(CSI)*
+- 🎨 &nbsp;**Best Design Project** — Hackulus Hackathon, **1000+ participants** *(SIAM-VIT)*
+- 🧩 &nbsp;**400+** DSA problems solved across LeetCode &amp; GeeksforGeeks
 
 </td>
 </tr>
@@ -401,7 +401,7 @@ B.Tech, Computer Science &amp; Engineering
 
 <div align="center">
 
-Open to conversations about *distributed systems, **cloud infrastructure* and *networking*.
+Open to conversations about **distributed systems**, **cloud infrastructure** and **networking**.
 
 <br/>
 
@@ -418,7 +418,7 @@ Open to conversations about *distributed systems, **cloud infrastructure* and *n
 
 <br/><br/>
 
-📫 &nbsp;**miriyalasampreeth@gmail.com*
+📫 &nbsp;**miriyalasampreeth@gmail.com**
 
 </div>
 
